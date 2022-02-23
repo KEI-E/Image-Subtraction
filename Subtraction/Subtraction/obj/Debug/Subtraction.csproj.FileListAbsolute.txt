@@ -1,0 +1,10 @@
+C:\Users\engbi\OneDrive\Documents\GitHub\CS345\Week 6\DIP Activity Part 2\Subtraction\Subtraction\bin\Debug\Subtraction.exe.config
+C:\Users\engbi\OneDrive\Documents\GitHub\CS345\Week 6\DIP Activity Part 2\Subtraction\Subtraction\bin\Debug\Subtraction.exe
+C:\Users\engbi\OneDrive\Documents\GitHub\CS345\Week 6\DIP Activity Part 2\Subtraction\Subtraction\bin\Debug\Subtraction.pdb
+C:\Users\engbi\OneDrive\Documents\GitHub\CS345\Week 6\DIP Activity Part 2\Subtraction\Subtraction\obj\Debug\Subtraction.csproj.AssemblyReference.cache
+C:\Users\engbi\OneDrive\Documents\GitHub\CS345\Week 6\DIP Activity Part 2\Subtraction\Subtraction\obj\Debug\Subtraction.Form1.resources
+C:\Users\engbi\OneDrive\Documents\GitHub\CS345\Week 6\DIP Activity Part 2\Subtraction\Subtraction\obj\Debug\Subtraction.Properties.Resources.resources
+C:\Users\engbi\OneDrive\Documents\GitHub\CS345\Week 6\DIP Activity Part 2\Subtraction\Subtraction\obj\Debug\Subtraction.csproj.GenerateResource.cache
+C:\Users\engbi\OneDrive\Documents\GitHub\CS345\Week 6\DIP Activity Part 2\Subtraction\Subtraction\obj\Debug\Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\engbi\OneDrive\Documents\GitHub\CS345\Week 6\DIP Activity Part 2\Subtraction\Subtraction\obj\Debug\Subtraction.exe
+C:\Users\engbi\OneDrive\Documents\GitHub\CS345\Week 6\DIP Activity Part 2\Subtraction\Subtraction\obj\Debug\Subtraction.pdb
